@@ -3,7 +3,7 @@
 This repository contains supplementary code and examples for 
 
 - **ITEC323**: Web and Mobile Application Development
-- **ITEC634**: ITEC634 - Responsive Application Development 
+- **ITEC634**: Responsive Application Development 
 
 ## 📋 About
 
