@@ -1,11 +1,9 @@
 # ITEC323 - Web and Mobile Application Development
 
-This repository contains supplementary code and examples for **ITEC323**
+This repository contains supplementary code and examples for 
 
-## 🚧 Work in Progress
-
-This repository is actively being developed and updated with new examples and projects throughout the semester.
-Folders with names `20+`, such as `20-Kotlin` and `21-Blazor`, are work in progress and may change as new materials are prepared.
+- **ITEC323**: Web and Mobile Application Development
+- **ITEC634**: ITEC634 - Responsive Application Development 
 
 ## 📋 About
 
